@@ -1,0 +1,311 @@
+@font-face {
+    font-family: mitra;
+    font-style: normal;
+    font-weight: bold;
+    src: url('fonts/BMitraBold.woff') format('woff');
+}
+
+@font-face {
+    font-family: mitra;
+    font-style: normal;
+    font-weight: normal;
+    src: url('fonts/BMitra.woff') format('woff');
+}
+
+html {
+    font-family: mitra;
+}
+
+body {
+    font-family: mitra;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+    font-family: mitra;
+}
+
+code,
+kbd,
+pre,
+samp, var, tt {
+    font-family: mitra;
+}
+
+input, select, button, textarea {
+    font-family: mitra;
+}
+
+#respond input[type="submit"] {
+    font-family: mitra;
+}
+
+.main-navigation a {
+    font-family: mitra;
+}
+
+input[type="submit"] {
+    font-family: mitra;
+}
+
+.btn {
+    font-family: mitra;
+    font-size: 17px;
+}
+
+ul.personal-info li {
+    font-family: mitra;
+}
+
+.skill-outerbox .skill-innerbox .skill-title,
+.skill-outerbox .skill-innerbox .skill-value {
+    font-family: mitra;
+}
+
+.cat-links a {
+    font-family: mitra;
+}
+
+nav.portfolio-filter ul li a {
+    font-family: mitra;
+}
+
+.grid .grid-item .entry-header span {
+    font-family: mitra;
+}
+
+#testimonial .testimonial-content p,
+#testimonial .testimonial-content span {
+    font-family: mitra;
+}
+
+#testimonial .testimonial-content:before {
+    font-family: mitra;
+}
+
+.counter-item span.stat-count,
+.counter-item small {
+    font-family: mitra;
+}
+
+body, button, input, select, textarea {
+    font-size: 1.1rem;
+}
+
+.main-navigation {
+    float: left;
+}
+
+.site-branding {
+    float: right;
+}
+
+#personal-details article .featured-image {
+    right: 0;
+    left: auto;
+}
+
+.main-navigation svg.icon-down {
+    margin-right: 5px;
+    margin-left: auto;
+}
+
+.main-navigation ul li:hover > ul, .main-navigation ul li.focus > ul {
+    right: auto;
+    left: 0;
+}
+
+.main-navigation ul.nav-menu > li.menu-item-has-children:hover > a:after {
+    left: 18px;
+    right: auto;
+}
+
+.main-navigation ul ul {
+    text-align: right;
+}
+
+#search {
+    left: 0;
+    right: auto;
+}
+
+#search:before {
+    left: 15px;
+    right: auto;
+}
+
+.skill-outerbox .skill-innerbox .skill-title, .skill-outerbox .skill-innerbox .skill-value {
+    float: right;
+}
+
+.skill-outerbox .skill-innerbox .skill-value {
+    left: 0;
+    right: auto;
+}
+
+#personal-details article .featured-content {
+    float: left;
+}
+
+#personal-details article .featured-content .entry-header, #personal-details article .featured-content .personal-info {
+    padding-right: 72px;
+    padding-left: auto;
+}
+
+.right-sidebar #secondary, .left-sidebar #secondary {
+    float: left;
+}
+
+.right-sidebar #primary, .left-sidebar #primary {
+    float: right;
+    padding-left: 40px;
+    padding-right: auto;
+}
+
+form.search-form button.search-submit {
+    left: 0;
+    right: auto;
+}
+
+form.search-form input {
+    padding: 0 15px 0 40px;
+}
+
+.widget_search form.search-form input {
+    padding: 0 15px 0 40px;
+}
+
+#secondary .widget.widget_archive li {
+    text-align: right;
+}
+
+.comment-meta img {
+    float: right;
+    margin-left: 35px;
+    margin-right: auto;
+}
+
+.comment-meta .fn {
+    padding-right: 35px;
+    padding-left: auto;
+}
+
+.comment-metadata {
+    float: left;
+    padding-left: 35px;
+    padding-right: auto;
+}
+
+.comment-content {
+    margin-right: 120px;
+    margin-left: auto;
+    left: 10px;
+    right: auto;
+}
+
+.reply {
+    text-align: left;
+    padding-left: 10px;
+    padding-right: auto;
+}
+
+nav.portfolio-filter ul li {
+    margin-left: 23px;
+    margin-right: auto;
+}
+
+.col-2 .hentry {
+    float: right;
+}
+
+.grid.gallery-popup .grid-item-inner a {
+    display: none;
+}
+
+.section-title:after {
+    margin-right: 30px;
+    margin-left: auto;
+}
+
+nav.portfolio-filter ul li.active a:after {
+    right: 0;
+}
+
+#services .entry-title svg {
+    margin-left: 20px;
+    margin-right: auto;
+}
+
+#call-to-action .entry-container {
+    padding: 100px 0 135px 75px;
+}
+
+#work-experience article img {
+    float: right;
+    margin-left: 50px;
+    margin-right: auto;
+}
+
+#work-experience .btn {
+    left: 0;
+    right: auto;
+}
+
+#work-experience article .entry-container {
+    padding: 30px 0 30px 200px;
+}
+
+#work-experience article:after {
+    right: 250px;
+    left: auto;
+}
+
+.contact-description {
+    padding: 80px 80px 80px 0;
+}
+
+#contact-us .social-icons li a {
+    margin-left: 37px;
+    margin-right: auto;
+}
+
+#contact-us .social-icons li:last-child a, #secondary .widget_social_icons li:last-child a {
+    margin-left: 37px;
+    margin-right: auto;
+}
+
+.footer-widgets-area.col-2 .hentry, .footer-widgets-area.col-4 .hentry {
+    float: right;
+}
+
+#colophon .social-icons li {
+    margin-right: 10px;
+}
+
+.site-info.col-2 .social-icons {
+    text-align: left;
+    float: left;
+}
+
+.site-info.col-2 span {
+    float: right;
+    text-align: right;
+}
+
+@media screen and (min-width: 1200px) {
+    nav.portfolio-filter ul li {
+        margin-left: 53px;
+        margin-right: auto;
+    }
+}
+
+@media screen and (max-width: 1023px) {
+    .menu-toggle {
+        left: -10px;
+        right: auto;
+    }
+}
